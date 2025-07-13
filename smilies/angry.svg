@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="5.5562568mm"
+   height="5.5562568mm"
+   viewBox="0 0 5.5562568 5.5562568"
+   version="1.1"
+   id="svg374"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="angry.svg">
+  <title
+     id="title15">MyBB Vector Smiley - Angry</title>
+  <defs
+     id="defs368">
+    <linearGradient
+       y2="110.59284"
+       x2="-75.056625"
+       y1="106.04592"
+       x1="-75.056625"
+       gradientTransform="matrix(0.98780458,0,0,0.98780458,76.919405,-104.65343)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient407-8"
+       xlink:href="#linearGradient883"
+       inkscape:collect="always" />
+    <linearGradient
+       id="linearGradient883"
+       inkscape:collect="always">
+      <stop
+         id="stop879"
+         offset="0"
+         style="stop-color:#eca549;stop-opacity:1" />
+      <stop
+         id="stop881"
+         offset="1"
+         style="stop-color:#f05b44;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     fit-margin-bottom="0"
+     fit-margin-right="0"
+     fit-margin-left="0"
+     fit-margin-top="0"
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="28.809489"
+     inkscape:cx="10.500013"
+     inkscape:cy="10.500013"
+     inkscape:document-units="px"
+     inkscape:current-layer="svg374"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1600"
+     inkscape:window-height="837"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata371">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>MyBB Vector Smiley - Angry</dc:title>
+        <dc:date>2025-07-13</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Paul Verbitsky</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>Distributed under GNU Lesser General Public License v3.0</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <cc:license
+           rdf:resource="https://www.gnu.org/licenses/lgpl-3.0.html" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path
+     d="m 5.4570385,2.7781285 a 2.6789053,2.6789053 0 0 1 -2.67891,2.67891 2.6789053,2.6789053 0 0 1 -2.67891,-2.67891 2.6789053,2.6789053 0 0 1 2.67891,-2.67891 2.6789053,2.6789053 0 0 1 2.67891,2.67891 z"
+     style="fill:url(#linearGradient407-8);fill-opacity:1;stroke:#000000;stroke-width:0.198437;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:normal"
+     id="path30-7-1" />
+  <path
+     id="rect48-3-6"
+     style="fill:none;stroke:#000000;stroke-width:0.198437;stroke-linecap:round;stroke-linejoin:round"
+     d="m 3.6467685,1.1118185 -0.86864,0.86865 -0.86865,-0.86865"
+     sodipodi:nodetypes="ccc" />
+  <path
+     style="font-variation-settings:normal;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+     d="m 1.9094785,1.8945285 v 0.42365"
+     id="path51-6-5"
+     sodipodi:nodetypes="cc" />
+  <path
+     sodipodi:nodetypes="cc"
+     id="path877-7-7"
+     d="m 3.6467685,1.8945285 v 0.42365"
+     style="font-variation-settings:normal;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000" />
+  <path
+     sodipodi:nodetypes="czc"
+     id="path893-0-1-1-3"
+     d="m 1.6101685,3.8561885 c 0,0 0.37533,-0.29596 1.16796,-0.29596 0.79263,0 1.16796,0.29596 1.16796,0.29596"
+     style="font-variation-settings:normal;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.198437;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000" />
+</svg>

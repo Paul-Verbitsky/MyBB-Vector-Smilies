@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="9.4193401mm"
+   height="6.4079409mm"
+   viewBox="0 0 9.4193402 6.4079409"
+   version="1.1"
+   id="svg872"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="angel.svg">
+  <title
+     id="title27">MyBB Vector Smiley - Angel</title>
+  <defs
+     id="defs866">
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter972"
+       x="-0.013641105"
+       width="1.0272822"
+       y="-0.023566622"
+       height="1.0471332">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.026397016"
+         id="feGaussianBlur974" />
+    </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient144"
+       id="linearGradient132-0"
+       gradientUnits="userSpaceOnUse"
+       x1="-41.771626"
+       y1="107.66057"
+       x2="-40.973518"
+       y2="109.2568"
+       gradientTransform="matrix(-1.0000182,0,0,1.0000182,-32.9865,-105.48921)" />
+    <linearGradient
+       id="linearGradient144"
+       inkscape:collect="always">
+      <stop
+         id="stop140"
+         offset="0"
+         style="stop-color:#caddfc;stop-opacity:1" />
+      <stop
+         id="stop142"
+         offset="1"
+         style="stop-color:#ffffff;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient144"
+       id="linearGradient146-7"
+       x1="-41.771626"
+       y1="107.66057"
+       x2="-40.973518"
+       y2="109.2568"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.0000182,0,0,1.0000182,42.405836,-105.48922)" />
+    <linearGradient
+       y2="110.67557"
+       x2="-73.138962"
+       y1="106.84025"
+       x1="-76.974281"
+       gradientTransform="matrix(0.98782254,0,0,0.98782254,78.852298,-103.80374)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient162-7"
+       xlink:href="#linearGradient299"
+       inkscape:collect="always" />
+    <linearGradient
+       id="linearGradient299"
+       inkscape:collect="always">
+      <stop
+         id="stop295"
+         offset="0"
+         style="stop-color:#fee03f;stop-opacity:1" />
+      <stop
+         id="stop297"
+         offset="1"
+         style="stop-color:#feb434;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     fit-margin-bottom="0"
+     fit-margin-right="0"
+     fit-margin-left="0"
+     fit-margin-top="0"
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="24.980399"
+     inkscape:cx="17.800328"
+     inkscape:cy="12.109495"
+     inkscape:document-units="px"
+     inkscape:current-layer="svg872"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1600"
+     inkscape:window-height="837"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata869">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>MyBB Vector Smiley - Angel</dc:title>
+        <dc:date>2025-07-13</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Paul Verbitsky</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>Distributed under GNU Lesser General Public License v3.0</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <cc:license
+           rdf:resource="https://www.gnu.org/licenses/lgpl-3.0.html" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path
+     d="m -103.38055,107.50517 a 2.322184,1.3441419 0 0 0 -2.277,1.34382 2.322184,1.3441419 0 0 0 2.32241,1.34436 2.322184,1.3441419 0 0 0 2.32185,-1.34436 2.322184,1.3441419 0 0 0 -2.32185,-1.34382 2.322184,1.3441419 0 0 0 -0.0454,0 z m 0.0438,0.38583 h 5.6e-4 a 0.38374409,0.38441668 0 0 0 0.002,0 c 0.54939,2e-5 1.09527,0.13486 1.44979,0.33978 0.35452,0.20493 0.48757,0.44008 0.48801,0.61765 4e-5,0.17776 -0.1335,0.41187 -0.48801,0.61711 -0.35451,0.20523 -0.89986,0.34142 -1.44979,0.34143 -0.55025,2.9e-4 -1.09652,-0.13615 -1.45144,-0.34143 -0.35491,-0.20529 -0.48804,-0.43926 -0.488,-0.61711 5.6e-4,-0.17758 0.13348,-0.41272 0.488,-0.61765 0.3544,-0.20485 0.90004,-0.33968 1.44925,-0.33978 z"
+     style="fill:#ffd42a;stroke:none;stroke-width:0.198437;filter:url(#filter972)"
+     id="path132"
+     transform="matrix(1.0000182,0,0,1.0000182,108.0469,-107.40783)" />
+  <path
+     d="m 7.0319005,1.4433905 a 2.3222265,1.3441664 0 0 1 -2.32223,1.34419 2.3222265,1.3441664 0 0 1 -2.32223,-1.34419 2.3222265,1.3441664 0 0 1 2.32223,-1.34417 2.3222265,1.3441664 0 0 1 2.32223,1.34417 z"
+     style="fill:none;stroke:#000000;stroke-width:0.198441"
+     id="path171-9" />
+  <path
+     style="font-variation-settings:normal;vector-effect:none;fill:url(#linearGradient132-0);fill-opacity:1;stroke:#000000;stroke-width:0.198441;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+     d="m 6.8165305,2.1733205 h 1.969362 c 0.277957,0 0.534227,0.22339 0.534227,0.50205 v 1.35165 c 0,0.24916 -0.146693,0.51726 -0.432119,0.53423 -0.221079,0.0131 -0.367028,-0.0531 -0.615415,-0.28481 -0.372705,-0.3477 -0.515345,0.0724 -0.733055,0.30559 -0.21276,0.22789 -0.53125,0.19586 -0.54723,0.18787"
+     id="path130-8"
+     sodipodi:nodetypes="cssssssc" />
+  <path
+     sodipodi:nodetypes="cssssssc"
+     id="path124-4"
+     d="m 2.6028205,2.1733205 h -1.96937 c -0.27795,0 -0.53423,0.22339 -0.53423,0.50205 v 1.35165 c 0,0.24916 0.1467,0.51726 0.43212,0.53423 0.22108,0.0131 0.36703,-0.0531 0.61542,-0.28481 0.37271,-0.3477 0.51534,0.0724 0.73306,0.30559 0.21275,0.22789 0.53125,0.19586 0.54723,0.18787"
+     style="font-variation-settings:normal;vector-effect:none;fill:url(#linearGradient146-7);fill-opacity:1;stroke:#000000;stroke-width:0.198441;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000" />
+  <path
+     d="m 7.3886305,3.6297605 a 2.678954,2.678954 0 0 1 -2.67895,2.67896 2.678954,2.678954 0 0 1 -2.67896,-2.67896 2.678954,2.678954 0 0 1 2.67896,-2.67895 2.678954,2.678954 0 0 1 2.67895,2.67895 z"
+     style="fill:url(#linearGradient162-7);fill-opacity:1;stroke:#000000;stroke-width:0.198441;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:normal"
+     id="path146-5" />
+  <path
+     d="m 4.7096805,2.7722405 a 0.68101126,0.68101126 0 0 1 -0.68102,0.68101 0.68101126,0.68101126 0 0 1 -0.68101,-0.68101 0.68101126,0.68101126 0 0 1 0.68101,-0.68101 0.68101126,0.68101126 0 0 1 0.68102,0.68101 z"
+     style="fill:#ffffff;stroke:#000000;stroke-width:0.198441"
+     id="path152-1" />
+  <path
+     d="m 4.3608305,2.4234005 a 0.33216828,0.33216828 0 0 1 -0.33217,0.33217 0.33216828,0.33216828 0 0 1 -0.33216,-0.33217 0.33216828,0.33216828 0 0 1 0.33216,-0.33217 0.33216828,0.33216828 0 0 1 0.33217,0.33217 z"
+     style="fill:#000000;stroke:none;stroke-width:0.198441"
+     id="path156-7" />
+  <path
+     id="path158-4"
+     style="fill:#ffffff;stroke:#000000;stroke-width:0.198441"
+     d="m 6.0716905,2.7722405 a 0.68101126,0.68101126 0 0 1 -0.681,0.68101 0.68101126,0.68101126 0 0 1 -0.68101,-0.68101 0.68101126,0.68101126 0 0 1 0.68101,-0.68101 0.68101126,0.68101126 0 0 1 0.681,0.68101 z" />
+  <path
+     id="path160-9"
+     style="fill:#000000;stroke:none;stroke-width:0.198441"
+     d="m 5.7228705,2.4234005 a 0.33216828,0.33216828 0 0 1 -0.33218,0.33217 0.33216828,0.33216828 0 0 1 -0.33217,-0.33217 0.33216828,0.33216828 0 0 1 0.33217,-0.33217 0.33216828,0.33216828 0 0 1 0.33218,0.33217 z" />
+  <path
+     style="font-variation-settings:normal;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.198441;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+     d="m 3.8109805,4.1497905 c 0,0.11927 0.0779,0.48412 0.75033,0.46049"
+     id="path133"
+     sodipodi:nodetypes="cc" />
+</svg>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="5.5562472mm"
+   height="5.5562572mm"
+   viewBox="0 0 5.5562472 5.5562573"
+   version="1.1"
+   id="svg1325"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="sleepy.svg">
+  <title
+     id="title14">MyBB Vector Smiley - Sleepy</title>
+  <defs
+     id="defs1319">
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient81"
+       id="linearGradient227"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.98780458,0,0,0.98780458,76.919409,-104.65343)"
+       x1="-76.974281"
+       y1="106.84025"
+       x2="-73.138962"
+       y2="110.67557" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient81">
+      <stop
+         style="stop-color:#fee03f;stop-opacity:1"
+         offset="0"
+         id="stop77" />
+      <stop
+         style="stop-color:#feb434;stop-opacity:1"
+         offset="1"
+         id="stop79" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     fit-margin-bottom="0"
+     fit-margin-right="0"
+     fit-margin-left="0"
+     fit-margin-top="0"
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="28.809486"
+     inkscape:cx="10.499995"
+     inkscape:cy="10.500014"
+     inkscape:document-units="px"
+     inkscape:current-layer="svg1325"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1600"
+     inkscape:window-height="837"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata1322">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>MyBB Vector Smiley - Sleepy</dc:title>
+        <dc:date>2025-07-13</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Paul Verbitsky</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>Distributed under GNU Lesser General Public License v3.0</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <cc:license
+           rdf:resource="https://www.gnu.org/licenses/lgpl-3.0.html" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path
+     id="path207"
+     style="fill:url(#linearGradient227);fill-opacity:1;stroke:#000000;stroke-width:0.198437;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:normal"
+     d="m 5.4570285,2.7781285 a 2.6789053,2.6789053 0 0 1 -2.6789,2.67891 2.6789053,2.6789053 0 0 1 -2.67891,-2.67891 2.6789053,2.6789053 0 0 1 2.67891,-2.67891 2.6789053,2.6789053 0 0 1 2.6789,2.67891 z" />
+  <path
+     id="path213"
+     style="fill:none;stroke:#000000;stroke-width:0.198437;stroke-linecap:round;stroke-linejoin:round"
+     d="m 3.2792485,1.6060885 c 0,0.21219 0.19445,0.3842 0.43432,0.3842 0.23986,0 0.43431,-0.17201 0.43431,-0.3842"
+     sodipodi:nodetypes="csc" />
+  <path
+     sodipodi:nodetypes="csc"
+     d="m 1.4083685,1.6060885 c 0,0.21219 0.19445,0.3842 0.43432,0.3842 0.23986,0 0.43431,-0.17201 0.43431,-0.3842"
+     style="fill:none;stroke:#000000;stroke-width:0.198437;stroke-linecap:round;stroke-linejoin:round"
+     id="path215" />
+  <path
+     sodipodi:nodetypes="cc"
+     id="path241"
+     d="m 2.6924005,3.5574285 c 0.739014,0.0331 0.980725,-0.0674 0.980725,-0.4912"
+     style="font-variation-settings:normal;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.198437;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000" />
+</svg>

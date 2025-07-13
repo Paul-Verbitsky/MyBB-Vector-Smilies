@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="my.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   id="svg694"
+   version="1.1"
+   viewBox="0 0 5.5562472 5.5562568"
+   height="5.5562568mm"
+   width="5.5562472mm">
+  <title
+     id="title13">MyBB Vector Smiley - My</title>
+  <defs
+     id="defs688">
+    <linearGradient
+       y2="110.67557"
+       x2="-73.138962"
+       y1="106.84025"
+       x1="-76.974281"
+       gradientTransform="matrix(0.98780458,0,0,0.98780458,76.919399,-104.65343)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient163"
+       xlink:href="#linearGradient81"
+       inkscape:collect="always" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient81">
+      <stop
+         style="stop-color:#fee03f;stop-opacity:1"
+         offset="0"
+         id="stop77" />
+      <stop
+         style="stop-color:#feb434;stop-opacity:1"
+         offset="1"
+         id="stop79" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     inkscape:window-maximized="1"
+     inkscape:window-y="-8"
+     inkscape:window-x="-8"
+     inkscape:window-height="837"
+     inkscape:window-width="1600"
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="svg694"
+     inkscape:document-units="px"
+     inkscape:cy="10.500013"
+     inkscape:cx="10.499995"
+     inkscape:zoom="28.809489"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata691">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>MyBB Vector Smiley - My</dc:title>
+        <dc:date>2025-07-13</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Paul Verbitsky</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>Distributed under GNU Lesser General Public License v3.0</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <cc:license
+           rdf:resource="https://www.gnu.org/licenses/lgpl-3.0.html" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path
+     d="m 5.4570285,2.7781285 a 2.6789053,2.6789053 0 0 1 -2.67891,2.67891 2.6789053,2.6789053 0 0 1 -2.6789,-2.67891 2.6789053,2.6789053 0 0 1 2.6789,-2.67891 2.6789053,2.6789053 0 0 1 2.67891,2.67891 z"
+     style="fill:url(#linearGradient163);fill-opacity:1;stroke:#000000;stroke-width:0.198437;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:normal"
+     id="path161" />
+  <path
+     id="path121"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.5833px;line-height:125%;font-family:Ebrima;-inkscape-font-specification:'Ebrima Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;stroke:none;stroke-width:0.264582px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 2.9126085,3.6277085 h -0.37799 v -1.01665 q 0,-0.16471 0.0142,-0.36377 h -0.01 q -0.0296,0.15641 -0.0533,0.22513 l -0.39812,1.15529 h -0.31282 l -0.40524,-1.14344 q -0.0166,-0.0462 -0.0533,-0.23698 h -0.0107 q 0.0154,0.2512 0.0154,0.44079 v 0.93963 h -0.3448 v -1.69916 h 0.56046 l 0.34717,1.00717 q 0.0415,0.12086 0.0604,0.24291 h 0.007 q 0.032,-0.14101 0.0675,-0.24528 l 0.34718,-1.0048 h 0.54624 z" />
+  <path
+     id="path123"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.5833px;line-height:125%;font-family:Ebrima;-inkscape-font-specification:'Ebrima Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;stroke:none;stroke-width:0.264582px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 4.5797685,1.9285485 -0.55335,1.09485 v 0.60431 h -0.38273 v -0.5972 l -0.53913,-1.10196 h 0.43723 l 0.27372,0.63392 q 0.007,0.0178 0.0391,0.13864 h 0.005 q 0.0154,-0.0853 0.0367,-0.1339 l 0.27845,-0.63866 z" />
+</svg>

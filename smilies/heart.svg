@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="5.5562797mm"
+   height="5.5562463mm"
+   viewBox="0 0 5.5562797 5.5562463"
+   version="1.1"
+   id="svg1124"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="heart.svg">
+  <title
+     id="title11">MyBB Vector Smiley - Heart</title>
+  <defs
+     id="defs1118">
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1011"
+       id="linearGradient176"
+       x1="-64.93763"
+       y1="108.61943"
+       x2="-64.93763"
+       y2="113.71448"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(67.715767,-108.25744)" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1011">
+      <stop
+         style="stop-color:#fe68ae;stop-opacity:1"
+         offset="0"
+         id="stop1007" />
+      <stop
+         style="stop-color:#ed1c7a;stop-opacity:1"
+         offset="1"
+         id="stop1009" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     fit-margin-bottom="0"
+     fit-margin-right="0"
+     fit-margin-left="0"
+     fit-margin-top="0"
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="28.809543"
+     inkscape:cx="10.500056"
+     inkscape:cy="10.499993"
+     inkscape:document-units="px"
+     inkscape:current-layer="svg1124"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1600"
+     inkscape:window-height="837"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata1121">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>MyBB Vector Smiley - Heart</dc:title>
+        <dc:date>2025-07-13</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Paul Verbitsky</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>Distributed under GNU Lesser General Public License v3.0</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <cc:license
+           rdf:resource="https://www.gnu.org/licenses/lgpl-3.0.html" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path
+     id="path8"
+     d="m 2.7383096,1.1111552 c -0.0108,-0.0263 -0.0153,-0.0675 -0.0238,-0.0955 -0.01304,-0.0435 -0.03037,-0.0822 -0.04886,-0.12898999 -0.15252,-0.38488 -0.539607,-0.76785 -1.080646,-0.78625 -1.15946006,-0.0395 -1.64537706,0.88496 -1.43980706,1.77251999 0.166338,0.71819 0.788545,1.4119 1.28943796,1.9979999 0.2513381,0.2940302 0.5066541,0.5679401 0.7608321,0.8607002 0.176592,0.2073399 0.4553959,0.53564 0.582673,0.7253999 C 2.9054168,5.2672753 3.1842207,4.9389752 3.3608129,4.7316353 3.6149909,4.4388752 3.8703067,4.1649653 4.1216447,3.8709351 4.6225377,3.2848352 5.2447449,2.5911252 5.4110829,1.8729352 5.6166527,0.98537521 5.1307359,0.06088521 3.9712759,0.10041521 c -0.541039,0.0184 -0.928126,0.40137 -1.0806462,0.78625 -0.018489,0.0468 -0.03582,0.0855 -0.04886,0.12898999 -0.0085,0.028 -0.012999,0.0692 -0.023799,0.0955 -0.0079,0.0194 -0.02381,0.0319 -0.03983,0.0319 -0.01602,0 -0.03193,-0.0125 -0.03983,-0.0319 z"
+     style="display:inline;fill:url(#linearGradient176);fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.198438;stroke-linecap:round;stroke-linejoin:round"
+     sodipodi:nodetypes="cssssscccsssssccc" />
+</svg>
