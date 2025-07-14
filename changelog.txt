@@ -1,0 +1,11 @@
+* MyBB Vector Smilies Changelog *
+
+* Version 1.0.0 - Initial Release, July 13, 2025:
+
+   - Initial release of the MyBB Vector Smilies set.
+   - Includes the main set of 24 vectorized smilies from the standard MyBB 1.8.x smilie set.
+   - Features 1 additional 'huh' smiley specifically designed for dark themes.
+   - Contains 10 additional smilies, expanding the variety of expressions.
+   - All smilies are in SVG format, maintaining 21px original raster size.
+
+https://github.com/Paul-Verbitsky/MyBB-Vector-Smilies
