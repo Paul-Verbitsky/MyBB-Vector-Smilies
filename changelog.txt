@@ -2,7 +2,7 @@
 
 * Version 1.0.1 - Visual Refinement, July 14, 2025:
 
-   - Visual refinement for biggrin.svg: lowered the bottom node of the smile contour by 0.1       pixels for improved appearance and to conceal slightly protruding side arcs.
+   - Visual refinement for biggrin.svg: lowered the bottom node of the smile contour by 0.1 pixels for improved appearance and to conceal slightly protruding side arcs.
 
 * Version 1.0.0 - Initial Release, July 13, 2025:
 
