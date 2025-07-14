@@ -13,7 +13,7 @@ This repository contains a set of vector smilies designed specifically for use w
 * **Date of Creation:** July 13, 2025
 * **Format:** SVG
 * **Total Smilies:** 35
-* **Current Version:** [1.0.0](https://github.com/Paul-Verbitsky/MyBB-Vector-Smilies/releases)
+* **Current Version:** [1.0.1](https://github.com/Paul-Verbitsky/MyBB-Vector-Smilies/releases)
 
 ## Contents of This Set
 
@@ -31,7 +31,7 @@ This vectorized smilie set includes:
     * Dodgy
     * Exclamation
     * Heart
-    * Huh
+    * Huh?
     * Lightbulb
     * My
     * Rolleyes
@@ -44,17 +44,17 @@ This vectorized smilie set includes:
     * Undecided
     * Wink
 * **1 additional 'huh' smilie** specifically designed for dark themes (featuring white question marks for better visibility on dark backgrounds):
-    * Huh (Dark Theme)
+    * Huh? (Dark Theme)
 * **10 additional smilies** (beyond the main set), expanding the variety of expressions:
     * Censored
     * Dead
     * Evil
     * Grimace
-    * Lol
+    * LOL
     * Neutral
     * Shocked
     * Surprise
-    * Wtf
+    * WTF?
     * Yawn
 
 All smilies are in **SVG format**, maintaining the original raster size of **21 pixels** for consistency.
