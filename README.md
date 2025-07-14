@@ -9,18 +9,7 @@
 This repository contains a set of vector smilies designed specifically for use with the MyBB forum engine. They are based on the original raster smilie set of MyBB and aim to provide a high-quality, scalable set of standard smilies.
 
 * **Date of Creation:** July 13, 2025
-* **Version:** 1.0.0
-
-### [Download latest version](https://github.com/Paul-Verbitsky/MyBB-Vector-Smilies/releases)
-
-### Update Log
-
-**[1.0.0] - 2025-07-13**
-- Initial release of the MyBB Vector Smilies set.
-- Includes the main set of 24 vectorized smilies from the standard MyBB 1.8.x smilie set.
-- Features 1 additional 'huh' smiley specifically designed for dark themes.
-- Contains 10 additional smilies, expanding the variety of expressions.
-- All smilies are in SVG format, maintaining 21px original raster size.
+* **Current Version:** [1.0.0](https://github.com/Paul-Verbitsky/MyBB-Vector-Smilies/releases)
 
 ## Contents of This Set
 
