@@ -12,7 +12,7 @@ This repository contains a set of vector smilies designed specifically for use w
 * **License:** [GNU LGPL v3](https://www.gnu.org/licenses/lgpl-3.0.html)
 * **Date of Creation:** July 13, 2025
 * **Format:** SVG
-* **Total Smilies:** 36
+* **Total Smilies:** 35
 * **Current Version:** [1.0.0](https://github.com/Paul-Verbitsky/MyBB-Vector-Smilies/releases)
 
 ## Contents of This Set
