@@ -8,6 +8,8 @@
 
 This repository contains a set of vector smilies designed specifically for use with the MyBB forum engine. They are based on the original raster smilie set of MyBB and aim to provide a high-quality, scalable set of standard smilies.
 
+* **Author:** Paul Verbitsky
+* **License:** [GNU LGPL v3](https://www.gnu.org/licenses/lgpl-3.0.html)
 * **Date of Creation:** July 13, 2025
 * **Current Version:** [1.0.0](https://github.com/Paul-Verbitsky/MyBB-Vector-Smilies/releases)
 
@@ -62,11 +64,3 @@ This repository provides vectorized smilies for potential integration into the M
 Upon integration into the official MyBB software package, these smilies will fall under the terms of the MyBB engine's general license (stated as **GNU Lesser General Public License, Version 3 - LGPLv3**).
 
 Please ensure proper credit is given to the author, Paul Verbitsky, when using these smilies as part of the official MyBB software package/platform.
-
-## License
-
-This set of vector smilies is distributed under the terms of the **[GNU Lesser General Public License, Version 3 (LGPLv3)](https://www.gnu.org/licenses/lgpl-3.0.html)**.
-
-## Author
-
-**Paul Verbitsky (MyBB Forum Nick: [WikWik-12](https://community.mybb.com/user-157539.html))**
