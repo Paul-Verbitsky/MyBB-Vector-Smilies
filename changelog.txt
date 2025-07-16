@@ -1,12 +1,13 @@
 * MyBB Vector Smilies Changelog *
 
-* Version 1.0.2 - Visual Refinement, July 15, 2025:
+* Version 1.0.2 - Visual Refinement and SVG Code Optimization, July 16, 2025:
 
    - Visual refinement for dead.svg: the tongue has been stretched downwards by 0.5 pixels for an improved visual appearance.
    - Visual refinement for censored.svg: characters within the black frame are now vertically centered.
    - Visual refinement for confused.svg: the mouth curve (sine wave) has been adjusted to ensure perfect symmetry for a cleaner visual appearance.
    - Visual refinement for wtf.svg: the mouth curve (sine wave) has been adjusted to ensure perfect symmetry for a cleaner visual appearance.
    - Visual refinement for dodgy.svg: the mouth line has been adjusted to a symmetrical curve for improved visual consistency and appearance.
+   - SVG smilies code optimization: comprehensive optimization of all smiley SVG code has been performed. This has allowed for a reduction in the weight of each smiley by approximately half without any visual graphic changes. This improvement will significantly speed up smiley loading times and enhance overall performance.
 
 * Version 1.0.1 - Visual Refinement, July 14, 2025:
 
