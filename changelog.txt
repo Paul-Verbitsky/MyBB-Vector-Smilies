@@ -1,5 +1,21 @@
 * MyBB Vector Smilies Changelog *
 
+* Version 1.1.0 - Visual Update & Expansion, July 18, 2025:
+
+In this release, I've not only addressed some graphical element fixes but also enhanced the overall visual composition of the smilies, ensuring they align with contemporary design sensibilities and user expectations.
+
+   - Visual refinement for rolleyes.svg: the smiley's smile was slightly adjusted.
+   - Visual refinement for shy.svg: the smiley's smile was slightly adjusted.
+   - Visual refinement for huh.svg (huh_d.svg): the question marks above the smiley were slightly lowered.
+   - Visual refinement for angel.svg: the color of the wings and the halo above the smiley were changed.
+   - Visual refinement for sick.svg: the pupil of the left eye was brought above the layers (this was a minor non-critical issue).
+   - Visual refinement for censored.svg: the spacing between the frame characters (#%!&) was aligned.
+   - Visual refinement for heart.svg: the color gradient was slightly adjusted.
+   - All elements in all smilies have been precisely horizontally centered relative to the smiley's circle.
+   - The outer outline of all smilies was removed, after which the size of all smilies was increased to 21 pixels. This allowed for a visual enlargement of all smilies (their internal graphic elements) within the same viewBox.
+   - The black color (#000) is no longer used in the smilies. This color created a very high contrast with other colors used in the smilies, which was especially noticeable at the standard 21-pixel smiley size. Instead of black, a new color - #292f33 - is now used. This color provides an excellent "soft" transition between colors and eliminates such a sharp contrast with others. It harmonizes perfectly with various colored smilies.
+   - 5 new smilies have been added: Frozen (frozen.svg), Hot (hot.svg), ZZZ (zzz.svg), Like (like.svg), and Unlike (unlike.svg). This increases the total number of smilies to 40 (25 standard set smilies and 15 additional smilies).
+
 * Version 1.0.2 - Visual Refinement and SVG Code Optimization, July 16, 2025:
 
    - Visual refinement for dead.svg: the tongue has been stretched downwards by 0.5 pixels for an improved visual appearance.
