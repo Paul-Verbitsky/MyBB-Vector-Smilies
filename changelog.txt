@@ -1,5 +1,9 @@
 * MyBB Vector Smilies Changelog *
 
+* Version 1.1.2 - Minor Visual Fixes, July 20, 2025:
+
+   - Visual refinement for hot.svg: the right droplet has been adjusted by moving it slightly higher to improve its visual placement.
+
 * Version 1.1.1 - Color Harmony & Visual Refinements, July 19, 2025:
 
 In this update, the element color for all yellow-based smilies was changed from #292f33 to #433410. Elements in all colored smilies also had their color #292f33 replaced with corresponding colors by lowering the L value in the HSL system. Additionally, visual changes affected many individual smilies, which includes: adjustment of element shapes, correction of individual element placements, change of color gradient directions, addition of some details, and changes to individual element colors. In total, individual changes, besides the global color replacement, affected 12 smilies.
