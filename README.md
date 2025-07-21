@@ -13,7 +13,7 @@ This repository contains a set of vector smilies designed specifically for use w
 * **Date of Creation:** July 13, 2025
 * **Format:** SVG
 * **Total Smilies:** 40
-* **Current Version:** [1.1.2](https://github.com/Paul-Verbitsky/MyBB-Vector-Smilies/releases)
+* **Current Version:** [1.1.3](https://github.com/Paul-Verbitsky/MyBB-Vector-Smilies/releases)
 * **Discussion:** [MyBB Vector Smilies](https://github.com/Paul-Verbitsky/MyBB-Vector-Smilies/discussions)
 
 ## Contents of This Set

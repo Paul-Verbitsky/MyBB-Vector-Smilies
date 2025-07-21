@@ -1,5 +1,12 @@
 * MyBB Vector Smilies Changelog *
 
+* Version 1.1.3 - Visual & Performance Refinements, July 21, 2025:
+
+   - In all yellow smilies the gradient has been reviewed and changed: now the smilies look better on a light background.
+   - Colored gradients in other smilies have been reviewed and corrected.
+   - Minor adjustments in hot.svg smiley: the right droplet is slightly raised.
+   - Additional optimization of SVG code has been performed, which allowed to slightly reduce the weight of each smiley.
+
 * Version 1.1.2 - Minor Visual Fixes, July 20, 2025:
 
    - Visual refinement for hot.svg: the right droplet has been adjusted by moving it slightly higher to improve its visual placement.
