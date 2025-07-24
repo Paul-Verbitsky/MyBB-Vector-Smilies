@@ -1,5 +1,10 @@
 * MyBB Vector Smilies Changelog *
 
+* Version 1.1.4 - Optical Refinements & Performance, July 24, 2025:
+
+   - Visual alignment for smile.svg and wink.svg: the eye and mouth construction in these smilies has been moved down by 0.4 pixels to correct optical distortion and achieve a better visual balance.
+   - Visual adjustment for evil.svg: the overall construction of the evil.svg smiley has been re-evaluated and adjusted for improved visual alignment, consistent with other core smilies.
+
 * Version 1.1.3 - Visual & Performance Refinements, July 21, 2025:
 
    - In all yellow smilies the gradient has been reviewed and changed: now the smilies look better on a light background.
